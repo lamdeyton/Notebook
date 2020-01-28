@@ -14,10 +14,12 @@ Sphinx_
 --------
 | awesome-sphinxdoc_
 | getting-started-with-sphinx_
+| rest-sphinx-memo_
 
 .. _Sphinx: http://www.sphinx-doc.org/en/master/
 .. _awesome-sphinxdoc: https://github.com/yoloseem/awesome-sphinxdoc
 .. _getting-started-with-sphinx: https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html#getting-started-with-sphinx
+.. _rest-sphinx-memo: https://rest-sphinx-memo.readthedocs.io/en/latest/
 
 Python_
 -------
