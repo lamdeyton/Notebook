@@ -1,7 +1,6 @@
-----
+********
 Sphinx_
-----
-
+********
 | Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
 | Sphinx uses ``reStructuredText`` as its markup language,
  and many of its strengths come from the power and straightforwardness of reStructuredText 
