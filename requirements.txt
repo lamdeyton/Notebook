@@ -1,0 +1,3 @@
+Sphinx==2.3.1
+sphinx-rtd-theme==0.4.3
+sphinx-reload==0.2.0
