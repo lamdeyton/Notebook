@@ -10,15 +10,20 @@
 .. toctree::
     :caption: Python World
     :maxdepth: 2
-    :glob:
     
     python/index
     python/libraries
+    python/jupyter
     
 .. toctree::
     :caption: Web Crawler
     :maxdepth: 2
-    :glob:
 
     web_crawler/index
     web_crawler/video_tutorials
+  
+.. toctree::
+    :caption: Books
+    :maxdepth: 2
+
+    books/python
